@@ -653,7 +653,7 @@ html{
     }
     .academics{
         background-image: url('images/acadamicback1.png');
-        height: 100vh;
+        height: 70vh;
         margin-top:100vh;
     }
     .footer{
@@ -662,5 +662,12 @@ html{
     .footter{
         margin-top:170vh;
     }
+    .course{
+        margin-top: 40vh;
+    }
+    .images8{
+        margin-top: 70vh;
+    }
+}
 }
     
