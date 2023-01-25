@@ -648,19 +648,19 @@ html{
         margin-top: 2%;
     }
     .csp{
-        margin-top:50vh;
+        margin-top:200vh;
         display: block;
     }
     .academics{
         background-image: url('images/acadamicback1.png');
         height: 70vh;
-        margin-top:100vh;
+        margin-top:210vh;
     }
     .footer{
         margin-top: 300%;
     }
     .footter{
-        margin-top:170vh;
+        margin-top:210vh;
     }
     .course{
         margin-top: 40vh;
@@ -669,5 +669,5 @@ html{
         margin-top: 70vh;
     }
 }
-}
+
     
