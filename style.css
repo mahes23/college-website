@@ -642,25 +642,25 @@ html{
 
 }
 @media only screen and (max-width:480px){
-    .news{
+     .news{
         height:63vh;
         width: 90%;
         margin-top: 2%;
     }
     .csp{
-        margin-top: 150%;
+        margin-top:50vh;
         display: block;
     }
     .academics{
         background-image: url('images/acadamicback1.png');
         height: 100vh;
-        margin-top:260%;
+        margin-top:100vh;
     }
     .footer{
         margin-top: 300%;
     }
     .footter{
-        margin-top:100%;
+        margin-top:170vh;
     }
 }
     
